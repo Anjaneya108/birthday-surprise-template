@@ -23,7 +23,7 @@ export const config = {
 
   /* Together Gallery (Optional) */
   togetherGallery: {
-    enabled: true, // toggle together gallery
+    enabled: false, // toggle together gallery
     title: "💕 Our Memories 💕", // together gallery title
     buttonText: "One last thing...", // together gallery button
   },
