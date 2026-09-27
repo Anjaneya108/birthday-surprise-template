@@ -8,10 +8,10 @@
 export const config = {
   /* Name Verification Gate */
   recipientName: "nikita", // required name to enter
-  nameHint: 'Tera naam hi hai😂 ', // hint on wrong name
+  nameHint: 'aapka naam only😂 ', // hint on wrong name
 
   /* Section Headings */
-  soloGalleryTitle: "✨ Birthday Girl ✨", // solo gallery title
+  soloGalleryTitle: "✨ Birthday Girl (yahi photos hain 😭🫠) ✨", // solo gallery title
   messageTitle: "To our Birthday Girl :", // letter section title
   footerText: "Made with 'lal dil' for you", // footer text
 
@@ -60,7 +60,7 @@ export const config = {
   "(P.S. : End mein ek chhoti si request thi..😂😭",
   "Madam umar badhne ke saath apne bhaav aur mat badha lena please👺😂 Iss saal mujhe thoda kam ignore kar dena😒😒",
   "Kehte hain 20s mein time bahut jaldi nikalta hai, toh apna precious time mujhe ignore karne mein waste mat karna ab 🫠🫠🥀",
-  "i miss you alot but baat toh kar liya kar 🤧🤧🥹🥹)",
+  "i miss you alot but baat toh kar liya kar, achha nhi lagta mujhe 😭🤧🤧🥹🥹)",
 ],
 
   /* Theme Colors - Change these to customize the entire website theme! */
@@ -73,8 +73,8 @@ export const config = {
 
   /* Typing Animation Text (shown on the start screen) */
   typingText: {
-    first: "Rukja ek a second!",
-    second: "This is only for someone special.",
+    first: "Wait a second!",
+    second: "Kisi ka toh Birthday hai aaj!!",
   },
 };
 
