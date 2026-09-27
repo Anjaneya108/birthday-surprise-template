@@ -7,13 +7,13 @@
 
 export const config = {
   /* Name Verification Gate */
-  recipientName: "love", // required name to enter
-  nameHint: '4 letters, starts with "L"', // hint on wrong name
+  recipientName: "nikita", // required name to enter
+  nameHint: 'Tera naam hi hai😂 ', // hint on wrong name
 
   /* Section Headings */
-  soloGalleryTitle: "✨ My Birthday Girl ✨", // solo gallery title
-  messageTitle: "To My Favorite Person", // letter section title
-  footerText: "Made with 💗 just for you", // footer text
+  soloGalleryTitle: "✨ Birthday Girl ✨", // solo gallery title
+  messageTitle: "To our Birthday Girl :", // letter section title
+  footerText: "Made with 'lal dil' for you", // footer text
 
   /* Button Labels */
   buttons: {
@@ -30,16 +30,38 @@ export const config = {
 
   /* Birthday Message: Each string is a paragraph */
   message: [
-    "Happy Birthday, my love!",
-    "",
-    "I hope today is filled with joy, laughter, and all the little moments that make you smile. As you step into this new year, may it bring exciting opportunities, meaningful memories, and the confidence to chase everything you dream of.",
-    "",
-    "You have so much ahead of you, and I hope you never stop believing in yourself and all that you’re capable of. May this year be kind to you, rewarding, and full of reasons to celebrate.",
-    "",
-    "Wishing you a beautiful birthday and an even more amazing year to come.",
-    "",
-    "- With love,",
-  ],
+  "Happiest Birthday, Dear Nikita!!! 💐🎂🥳❤️",
+  " ",
+  "Welcome to the 20s club, madam! 🥂😂",
+  "Ab aap officially badi ho gayi ho 😭😂",
+  " ",
+  "I hope tera aaj ka din, aur aane wala har saal, is filled with joy, laughter, and all the little things and moments that make you smile ✨ ✨",
+  " ",
+  "Honestly, aage jo life aane wali hai na, wo bilkul teri tarah hi khoobsoorat hone wali hai",
+  " ",
+  "People say ki age ke saath insaan mature aur bada hota hai, but I think you’ll age like fine wine 🍷 (bas peena mat! 🥀🥀😂 😂 )",
+  " ",
+  "Ik you are incredibly strong and aage life mein jo bhi challenges aayenge; tu unhe easily face kar legi;",
+  "baki tere har problem, ups and downs mein main hamesha tere saath hoon hi; chahe koi low phase ho, anxiety ho, ya bass mann kharab ho; I’ll always be there.",
+  "Rona-dhona ho toh bhi bula lena, main bhi thoda bahut contribution de dunga! 😂 🫠🥹",
+  " ",
+  "But seriously, tera time aane wala hai💫🌟",
+  "Tu bahut shine karne wali hai, bahut kuch achieve karne wali hai, aur khub machane wali hai 😌🔥",
+  "Bas tu apni capabilities par pura trust rakh!💪💪",
+  " ",
+  "And idk tu maanti hai ya nahi, but jab tu actually khul ke hasti hai, bina kisi tension ke bilkul genuinely tab tu sach mein sabse zyada pyaari aur mesmerizing lagti hai🤩 ✨🌻🌷",
+  "So abse aise moments zyada se zyada hone chahiye, okay? 😼",
+  " ",
+  "Have the most amazing birthday today 🥳🎂",
+  "You genuinely deserve all the happiness, love, success and beautiful moments coming your way!! 💃💃",
+  " ",
+  "~ With laal dil, Your mitra (jo hamesha aapke replies ka wait kar raha hota hai 🫠🫠)",
+  " ",
+  "(P.S. : End mein ek chhoti si request thi..😂😭",
+  "Madam umar badhne ke saath apne bhaav aur mat badha lena please👺😂 Iss saal mujhe thoda kam ignore kar dena😒😒",
+  "Kehte hain 20s mein time bahut jaldi nikalta hai, toh apna precious time mujhe ignore karne mein waste mat karna ab 🫠🫠🥀",
+  "i miss you alot but baat toh kar liya kar 🤧🤧🥹🥹)",
+],
 
   /* Theme Colors - Change these to customize the entire website theme! */
   colors: {
@@ -51,8 +73,8 @@ export const config = {
 
   /* Typing Animation Text (shown on the start screen) */
   typingText: {
-    first: "Hey, wait a second!",
-    second: "This website is only for someone special.",
+    first: "Rukja ek a second!",
+    second: "This is only for someone special.",
   },
 };
 
